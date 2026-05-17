@@ -1,0 +1,6 @@
+pandas
+pyautogui
+plotly
+scikit-learn
+streamlit
+openai
