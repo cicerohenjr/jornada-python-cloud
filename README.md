@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 ## 📌 Sobre o Projeto
-Este repositório consolida os aprendizados práticos desenvolvidos, estruturados de forma estratégica para resolver problemas reais de operações de TI e DevOps. O objetivo é demonstrar como a linguagem Python pode ser utilizada para automatizar rotinas, embasar decisões com dados, implementar manutenção preditiva e criar ferramentas internas com Inteligência Artificial.
+Este repositório consolida os projetos práticos desenvolvidos durante a Jornada Python da Hashtag Treinamentos. O conteúdo foi estruturado de forma estratégica para resolver problemas reais de operações de TI e DevOps. O objetivo é demonstrar como a linguagem Python pode ser utilizada para automatizar rotinas, embasar decisões com dados, implementar manutenção preditiva e criar ferramentas internas com Inteligência Artificial.
 
 ## 📂 Estrutura do Repositório
 ```text
